@@ -23,3 +23,6 @@
   - [x] Admin Panel Setup & Update   
   - [x] Addition of capability to attain json query using `urlpatterns = format_suffix_patterns(urlpatterns) # Allows you to query wit the .json line
 `
+
+# NOTE: 
+ - The REST Architecture is used here.  
