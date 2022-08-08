@@ -24,4 +24,5 @@ urlpatterns = [
     path('drinks/<int:id>', views.drink_detail),
 ]
 
-urlpatterns = format_suffix_patterns(urlpatterns)
+urlpatterns = format_suffix_patterns(urlpatterns) # Allows you to query wit the .json line
+
